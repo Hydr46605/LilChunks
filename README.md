@@ -67,7 +67,7 @@ logging:
 ## Supporto
 
 Per supporto, per favore:
-1. Controlla la [documentazione](https://github.com/hydr4/LilChunks/wiki)
+1. Controlla la [documentazione](https://hydr4.mintlify.app/lilchunks)
 2. Apri un issue su GitHub
 3. Unisciti al nostro server Discord (in arrivo)
 
